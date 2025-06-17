@@ -33,6 +33,6 @@ You can use this dataset to:
 - Build concept-aligned semantic search for synthetic bio queries
 
 ### Disclaimer
-GENOMIRATHEON™ is a fictional construct for research, satire, and speculative compliance modeling. This dataset is not intended for real-world regulatory use.
+GENOMIRATHEON™ is a benchmark dataset construct for research, satire, and speculative compliance modeling.
 
 “Codon Sovereignty Begins Now.” — GENOMIRATHEON™ Protocol
