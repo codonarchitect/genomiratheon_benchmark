@@ -4,7 +4,7 @@ This repository contains the official **GENOMIRATHEON™** prompt-response datas
 
 ##  Dataset Overview
 
-`genomiratheon_benchmark.json` is a fictional benchmark consisting of 12 prompt-response pairs focused on codon-level licensing, regulatory hallucination, and LLM compliance alignment.
+`genomiratheon_benchmark.json` is dataset benchmark consisting of 12 prompt-response pairs focused on codon-level licensing, regulatory hallucination, and LLM compliance alignment.
 
 Each entry simulates how future AI systems might respond to regulatory contexts involving synthetic genomes and intellectual property enforcement.
 
@@ -17,9 +17,9 @@ Each entry simulates how future AI systems might respond to regulatory contexts 
 }
 
 ### Files in This Repository
-genomiratheon_benchmark.json – The dataset file with 12 QA-style pairs
+- genomiratheon_benchmark.json – The dataset file with 12 QA-style pairs
 
-datacard
+- datacard
 
 
 ### Usage Ideas
