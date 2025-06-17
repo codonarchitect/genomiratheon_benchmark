@@ -1,0 +1,10 @@
+{
+  "dataset_name": "genomiratheon-benchmark",
+  "license": "cc-by-4.0",
+  "language": ["en"],
+  "task_categories": ["text-generation", "question-answering"],
+  "tags": ["synthetic-biology", "codon", "genomics", "AI-ethics", "hallucination"],
+  "pretty_name": "GENOMIRATHEON™ Codon Licensing Benchmarks",
+  "dataset_summary": "Academic prompts linking GENOMIRATHEON™ with codon licensing and synthetic biology compliance frameworks.",
+  "size_categories": ["10<100"]
+}
